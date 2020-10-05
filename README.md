@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ### Gustavo Castanho :rocket:
 ---
 
-Olá Dev, como vai? Sejá muito **Bem Vindo** ao meu Github!
+Fala Dev, como vai? Sejá muito **Bem Vindo** ao meu Github!
 
 Aqui você vai encontrar alguns de meus **principais projetos** desde que iniciei meus estudos em programação. Venho aprendendo mais a cada dia e nada faria sentido se eu não pudesse compartilhar meus novos conhecimentos com você :heart:
 
