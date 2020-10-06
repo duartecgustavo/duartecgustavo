@@ -20,11 +20,12 @@ Here are some ideas to get you started:
 <p/>
 
 <p align="center">
-  Aqui você vai encontrar alguns de meus <b>principais projetos</b> desde que iniciei meus estudos em programação. Venho aprendendo mais a cada dia e nada faria sentido se eu não pudesse compartilhar meus novos conhecimentos com você :heart:
+  Aqui você vai encontrar alguns de meus <b>principais projetos</b> desde que iniciei no universo da programação. Procuro aprender mais a cada dia e nada faria sentido se eu não pudesse compartilhar meus novos conhecimentos com você :heart:
 <p/>
 
 <p align="center">
-Então dá uma explorada e aproveita!
+Por aqui tenho conteúdo de Python, Markdown, Javascript, HTML e CSS.<br>
+Então aproveita e dá uma explorada!
 <p/>
 
 ---
