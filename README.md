@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center"> Gustavo Castanho :rocket: </h1>
-  
----
 
 <p align="center">
   Fala Dev, como vai? Seja muito <b>bem Vindo</b> ao meu Github!
