@@ -32,7 +32,7 @@ Então aproveita e dá uma explorada!
 
 <img alt="Gustavo Castanho's github stats" width="100%" src="https://github-readme-stats.vercel.app/api?username=duartecgustavo&show_icons=true&theme=tokyonight" />
 
-<img alt="Gustavo Castanho's github stats" style="text-align: center;" width="100%" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duartecgustavo&layout=compact" />
+<!--<img alt="Gustavo Castanho's github stats" style="text-align: center;" width="100%" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duartecgustavo&layout=compact" />-->
 
 ---
 
