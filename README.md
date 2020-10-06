@@ -13,21 +13,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Gustavo Castanho :rocket:
+<h1 align="center"> Gustavo Castanho :rocket: </h1>
   
 ---
 
 <p align="center">
-  Fala Dev, como vai? Sejá muito <b>Bem Vindo</b> ao meu Github!
+  Fala Dev, como vai? Seja muito <b>bem Vindo</b> ao meu Github!
 <p/>
 
 <p align="center">
-  Aqui você vai encontrar alguns de meus <b>principais projetos</b> desde que iniciei no universo da programação. Procuro aprender mais a cada dia e nada faria sentido se eu não pudesse compartilhar meus novos conhecimentos com você :heart:
+Me chamo Gustavo Castanho. tenho 22 anos, moro em São Paulo capital e sou recém iniciado neste universo da programação. Busco mais conhecimento a cada dia e e uso o Github como não só uma plataforma de armazenamento e compartilhamento de meus estudos mas também como um ambiente pessoal de auto-incentivo onde eu possa sempre estar evoluindo e visualizando este progresso.
 <p/>
 
 <p align="center">
 Por aqui tenho conteúdo de Python, Markdown, Javascript, HTML e CSS.<br>
-Então aproveita e dá uma explorada!
+Então sinta-se avontade e dá uma explorada!
 <p/>
 
 ---
