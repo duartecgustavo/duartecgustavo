@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 <p/>
 
 <p align="center">
-Me chamo Gustavo Castanho. tenho 22 anos, moro em São Paulo capital e sou recém iniciado neste universo da programação. Busco mais conhecimento a cada dia e e uso o Github como não só uma plataforma de armazenamento e compartilhamento de meus estudos mas também como um ambiente pessoal de auto-incentivo onde eu possa sempre estar evoluindo e visualizando este progresso.
+Me chamo Gustavo Castanho, tenho 22 anos, moro em São Paulo capital e sou recém iniciado neste universo da programação. 
+Busco por conhecimento a cada dia e uso o meu Github não só como uma plataforma de armazenamento meus códigos mas também como um ambiente pessoal de auto-incentivo onde eu possa sempre estar evoluindo.
 <p/>
 
 <p align="center">
