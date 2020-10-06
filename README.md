@@ -21,6 +21,6 @@ Aqui você vai encontrar alguns de meus **principais projetos** desde que inicie
 
 Então dá uma explorada e aproveite!
 
-<img alt="Gustavo Castanho's github stats" width="100%" style="border: 2px black solid" src="https://github-readme-stats.vercel.app/api?username=duartecgustavo&show_icons=true&theme=radical" />
+<img alt="Gustavo Castanho's github stats" width="100%" style="border: 2px green solid" src="https://github-readme-stats.vercel.app/api?username=duartecgustavo&show_icons=true&theme=radical" />
 
 🌱 I’m currently learning ... HTML/CSS, JS and Python.
