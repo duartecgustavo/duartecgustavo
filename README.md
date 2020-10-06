@@ -26,10 +26,9 @@ Here are some ideas to get you started:
 <p align="center">
 Então dá uma explorada e aproveita!
 <p/>
----
-
 
 ---
+
 <img alt="Gustavo Castanho's github stats" width="100%" src="https://github-readme-stats.vercel.app/api?username=duartecgustavo&show_icons=true&theme=tokyonight" />
 
 <img alt="Gustavo Castanho's github stats" style="text-align: center;" width="100%" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duartecgustavo&layout=compact" />
