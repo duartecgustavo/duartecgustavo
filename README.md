@@ -12,7 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ### Gustavo Castanho :rocket:
+  
 ---
 
 <p align="center">
