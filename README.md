@@ -21,6 +21,6 @@ Aqui você vai encontrar alguns de meus **principais projetos** desde que inicie
 
 Então dá uma explorada e aproveite!
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![duartecgustavo github stats](https://github-readme-stats.vercel.app/api?username=duartecgustavo&show_icons=true&theme=radical)
 
 🌱 I’m currently learning ... HTML/CSS, JS and Python.
