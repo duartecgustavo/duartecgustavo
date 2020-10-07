@@ -45,6 +45,6 @@ Então sinta-se avontade e dá uma explorada!
 
 🌱 I’m currently learning ... HTML/CSS, JS and Python.
 
-Essa crise pode não ser tão grande quanto a gente imagina, mas pode ser maior do que a gente imagina.
+Precisamos vencer a fome, a miséria e a exclusão social. Nossa guerra não é para matar ninguém - é para salvar vidas.
 
 Luiz Inácio Lula da Silva :star:
