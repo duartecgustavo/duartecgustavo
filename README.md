@@ -44,3 +44,7 @@ Então sinta-se avontade e dá uma explorada!
 [![Twitter](https://img.shields.io/badge/-twitter-181717?style=flat-square&logo=twitter&link=https://twitter.com/duartecgustav0)](https://twitter.com/duartecgustav0)
 
 🌱 I’m currently learning ... HTML/CSS, JS and Python.
+
+Essa crise pode não ser tão grande quanto a gente imagina, mas pode ser maior do que a gente imagina.
+
+Luiz Inácio Lula da Silva :star:
