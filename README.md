@@ -42,9 +42,3 @@ Então sinta-se avontade e dá uma explorada!
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-duarte-578127160/)](https://www.linkedin.com/in/gustavo-duarte-578127160/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/duartecgustavo)](https://github.com/duartecgustavo)
 [![Twitter](https://img.shields.io/badge/-twitter-181717?style=flat-square&logo=twitter&link=https://twitter.com/duartecgustav0)](https://twitter.com/duartecgustav0)
-
-🌱 I’m currently learning ... HTML/CSS, JS and Python.
-
-Precisamos vencer a fome, a miséria e a exclusão social. Nossa guerra não é para matar ninguém - é para salvar vidas.
-
-Luiz Inácio Lula da Silva :star:
