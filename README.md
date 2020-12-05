@@ -20,12 +20,12 @@ Here are some ideas to get you started:
 <p/>
 
 <p align="center">
-Me chamo Gustavo Castanho, tenho 22 anos, moro em São Paulo capital e sou recém iniciado neste universo da programação. 
+Me chamo Gustavo, tenho 22 anos e samo o universo da programação. 
 Busco por conhecimento a cada dia e uso o meu Github não só como uma plataforma de armazenamento de meus códigos mas também como um ambiente pessoal de auto-incentivo onde eu possa sempre estar evoluindo.
 <p/>
 
 <p align="center">
-Por aqui tenho conteúdo de Python, Markdown, Javascript, HTML e CSS.<br>
+Por aqui tenho conteúdo de Python, Javascript, HTML, CSS, React, Bootstrap, PHP e Markdown.<br>
 Então sinta-se avontade e dá uma explorada!
 <p/>
 
