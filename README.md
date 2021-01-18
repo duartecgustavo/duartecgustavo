@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <p/>
 
 <p align="center">
-Me chamo Gustavo, tenho 22 anos e samo o universo da programação. 
+Me chamo Gustavo, tenho 22 anos e amo o universo da programação. 
 Busco por conhecimento a cada dia e uso o meu Github não só como uma plataforma de armazenamento de meus códigos mas também como um ambiente pessoal de auto-incentivo onde eu possa sempre estar evoluindo.
 <p/>
 
