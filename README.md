@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 
 <p align="center">
 Me chamo Gustavo, sou um desenvolvedor Full Stack de 22 anos e apaixonado pelo universo da tecnologia. 
-Busco aprender e me desenvolver a cada dia e uso o meu Github não só como uma plataforma de armazenamento de meus códigos mas também como um ambiente pessoal de auto-incentivo onde eu possa sempre estar evoluindo e observando minha evolução.
+Busco aprender e me desenvolver a cada dia e uso o meu Github não só como uma plataforma para armazenar e demonstrar meus códigos mas também como um ambiente pessoal de auto-incentivo onde eu possa sempre estar evoluindo e observando esta evolução.
 <p/>
 
 <p align="center">
-Por aqui tenho conteúdo de Python, Javascript, HTML, CSS, React, Bootstrap, PHP e Markdown.<br>
+Por aqui tenho conteúdo de Javascript, HTML, CSS, React, Bootstrap, Python, PHP e Markdown.<br>
 Então sinta-se avontade e dê uma explorada!
 <p/>
 
