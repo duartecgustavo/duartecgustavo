@@ -31,7 +31,7 @@ Então sinta-se avontade e dá uma explorada!
 
 ---
 
-<div style="diplay:flex">
+<div style="diplay:flex" align="center">
  
 <img alt="Gustavo Castanho's github stats" width="48%" src="https://github-readme-stats.vercel.app/api?username=duartecgustavo&show_icons=true&theme=tokyonight" />
  
