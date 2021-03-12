@@ -33,7 +33,7 @@ Então sinta-se avontade e dá uma explorada!
 
 <div style="diplay:flex; border:3px solid red;" align="center">
  
-<div width="48%">
+<div width="48%" style="border: 3px solid red">
 <img alt="Gustavo Castanho's github stats" width="48%" src="https://github-readme-stats.vercel.app/api?username=duartecgustavo&show_icons=true&theme=tokyonight" />
 <div/>
  
