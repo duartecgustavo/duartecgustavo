@@ -33,11 +33,11 @@ Então sinta-se avontade e dá uma explorada!
 
 <div style="diplay:flex">
  
-<div style="width:50%">
+<div style="width:45%">
 <img alt="Gustavo Castanho's github stats" width="40%%" src="https://github-readme-stats.vercel.app/api?username=duartecgustavo&show_icons=true&theme=tokyonight" />
 <div/>
  
-<div style="width:50%">
+<div style="width:45%">
 <img width="40%%" align="center" alt="GustavoCastanho's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duartecgustavo&count_private=true&theme=dracula">
 <div/>
   
