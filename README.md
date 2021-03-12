@@ -33,9 +33,9 @@ Então sinta-se avontade e dá uma explorada!
 
 <div style="diplay:flex">
  
-<img alt="Gustavo Castanho's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=duartecgustavo&show_icons=true&theme=tokyonight" />
+<img alt="Gustavo Castanho's github stats" width="48%" src="https://github-readme-stats.vercel.app/api?username=duartecgustavo&show_icons=true&theme=tokyonight" />
  
-<img width="50%" align="center" alt="GustavoCastanho's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duartecgustavo&count_private=true&theme=dracula">
+<img width="48%" align="center" alt="GustavoCastanho's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duartecgustavo&count_private=true&theme=dracula">
   
 <div/>
 
