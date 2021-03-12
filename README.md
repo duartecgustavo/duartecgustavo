@@ -34,7 +34,7 @@ Então sinta-se avontade e dê uma explorada!
 <div style="diplay:flex; border: 3px solid red" align="center">
 <!--  <img width="30%" align="right" alt="Github Image" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif"/> -->
 
-<img width="70%" alt="Gustavo Castanho's github stats" src="https://github-readme-stats.vercel.app/api?username=duartecgustavo&show_icons=true&theme=tokyonight" />
+<img width="60%" alt="Gustavo Castanho's github stats" src="https://github-readme-stats.vercel.app/api?username=duartecgustavo&show_icons=true&theme=tokyonight" />
 
 <img width="30%" align="top" alt="GustavoCastanho's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duartecgustavo&count_private=true&theme=dracula">
   
