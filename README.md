@@ -34,10 +34,10 @@ Então sinta-se avontade e dê uma explorada!
 <div style="diplay:flex; border: 3px solid red" align="center">
 <!--  <img width="30%" align="right" alt="Github Image" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif"/> -->
 
-<img width="67%" alt="Gustavo Castanho's github stats" src="https://github-readme-stats.vercel.app/api?username=duartecgustavo&show_icons=true&theme=tokyonight" />
+<img width="28%" align="top" alt="GustavoCastanho's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duartecgustavo&count_private=true&theme=dracula">
 
-<img width="27%" align="top" alt="GustavoCastanho's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duartecgustavo&count_private=true&theme=dracula">
-  
+<img width="67%" alt="Gustavo Castanho's github stats" src="https://github-readme-stats.vercel.app/api?username=duartecgustavo&show_icons=true&theme=tokyonight" />
+ 
 <div/>
 
 <!--<img alt="Gustavo Castanho's github stats" style="text-align: center;" width="100%" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duartecgustavo&layout=compact" />-->
