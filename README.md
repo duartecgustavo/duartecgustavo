@@ -39,5 +39,6 @@ Então sinta-se avontade e dá uma explorada!
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/duartecgustavo)](https://github.com/duartecgustavo)
 <a href="mailto:duartecgustavo@outlook.com" target="_blank">
   <img src="https://img.shields.io/badge/-Outlook-8752CC?style=flat&logo=Outlook&logoColor=white">
-
 </a>
+<img alt="ProfilViews" src="https://views.whatilearened.today/views/github/duartecgustavo/duartecgustavo.svg" />
+<img alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=duartecgustavo.duartecgustavo" />
