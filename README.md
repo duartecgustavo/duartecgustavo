@@ -31,13 +31,13 @@ Então sinta-se avontade e dá uma explorada!
 
 ---
 
-<div style="diplay:flex; border:3px solid red;" align="center">
+<div style="diplay:flex" align="center">
  
-<div width="48%">
+<div width="30%">
 <img alt="Gustavo Castanho's github stats" src="https://github-readme-stats.vercel.app/api?username=duartecgustavo&show_icons=true&theme=tokyonight" />
 <div/>
  
-<img width="48%" align="top" alt="GustavoCastanho's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duartecgustavo&count_private=true&theme=dracula">
+<img width="30%" align="top" alt="GustavoCastanho's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duartecgustavo&count_private=true&theme=dracula">
   
 <div/>
 
