@@ -37,4 +37,6 @@ Então sinta-se avontade e dá uma explorada!
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-duarte-578127160/)](https://www.linkedin.com/in/gustavo-duarte-578127160/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/duartecgustavo)](https://github.com/duartecgustavo)
-[![Twitter](https://img.shields.io/badge/-twitter-181717?style=flat-square&logo=twitter&link=https://twitter.com/duartecgustav0)](https://twitter.com/duartecgustav0)
+<a href="mailto:duartecgustavo@outlook.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white">
+</a>
