@@ -36,7 +36,7 @@ Então sinta-se avontade e dê uma explorada!
 
 <img width="60%" alt="Gustavo Castanho's github stats" src="https://github-readme-stats.vercel.app/api?username=duartecgustavo&show_icons=true&theme=tokyonight" />
 
-<img width="30%" align="top" alt="GustavoCastanho's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duartecgustavo&count_private=true&theme=dracula">
+<img width="20%" align="top" alt="GustavoCastanho's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duartecgustavo&count_private=true&theme=dracula">
   
 <div/>
 
