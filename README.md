@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <p/>
 
 <p align="center">
-Me chamo Gustavo, sou um desenvolvedor Full Stack de 22 anos e apaixonado o universo da tecnologia. 
+Me chamo Gustavo, sou um desenvolvedor Full Stack de 22 anos e apaixonado pelo universo da tecnologia. 
 Busco aprender e me desenvolver a cada dia e uso o meu Github não só como uma plataforma de armazenamento de meus códigos mas também como um ambiente pessoal de auto-incentivo onde eu possa sempre estar evoluindo e observando minha evolução.
 <p/>
 
@@ -36,8 +36,11 @@ Então sinta-se avontade e dê uma explorada!
 <div width="30%">
 <img alt="Gustavo Castanho's github stats" src="https://github-readme-stats.vercel.app/api?username=duartecgustavo&show_icons=true&theme=tokyonight" />
 <div/>
- 
-<img width="30%" align="top" alt="GustavoCastanho's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duartecgustavo&count_private=true&theme=dracula">
+  <div width="30%">
+<img alt="Gustavo Castanho's github stats" src="https://github-readme-stats.vercel.app/api?username=duartecgustavo&show_icons=true&theme=tokyonight" />
+<div/>
+<!--  
+<img width="30%" align="top" alt="GustavoCastanho's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duartecgustavo&count_private=true&theme=dracula"> -->
   
 <div/>
 
