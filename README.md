@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <p/>
 
 <p align="center">
-Me chamo Gustavo, sou desenvolvedor Frontend com 23 anos e apaixonado por tecnologia. 
+Me chamo Gustavo, sou desenvolvedor Frontend com 24 anos e apaixonado por tecnologia. 
 Busco aprender e me desenvolver a cada dia e uso o meu Github não só como uma plataforma para armazenar e demonstrar meus códigos mas também como um ambiente pessoal de auto-incentivo onde eu possa sempre estar evoluindo e observando esta evolução.
 <p/>
 
